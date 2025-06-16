@@ -39,7 +39,7 @@ This repository contains Terraform code for ad-hoc provisioning of Amazon RDS en
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/rds-terraform-provisioning.git
+   git clone https://github.com/cwillis13/rds-terraform-provisioning.git
    cd rds-terraform-provisioning
    ```
 
