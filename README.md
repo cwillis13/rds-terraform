@@ -42,6 +42,7 @@ This repository contains Terraform code for ad-hoc provisioning of Amazon RDS en
    git clone https://github.com/cwillis13/rds-terraform-provisioning.git
    cd rds-terraform-provisioning
    ```
+  > 💡 Make edits to tfvars and backend.tf as needed
 
 2. **Initialize Terraform:**
 
